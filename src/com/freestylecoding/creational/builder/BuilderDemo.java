@@ -9,7 +9,7 @@ public class BuilderDemo {
                 .addMeat("pork");
 
         LunchOrder order = builder.build();
-        
+
         System.out.println(order.getBread());
         System.out.println(order.getMeat());
         System.out.println(order.getDressing());
