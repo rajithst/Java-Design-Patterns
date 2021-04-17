@@ -2,11 +2,11 @@ package com.freestylecoding.creational.factory;
 
 public class ServerFactory {
 
-    public static  IServer getServer(String serverType){
+    public static  IServer getServer(ServerTypes serverType){
         switch (serverType){
-            case "mail":
+            case MAIL:
                 return new MailServer();
-            case "ftp":
+            case FTP:
                 return new FTPServer();
             default:
                 return null;

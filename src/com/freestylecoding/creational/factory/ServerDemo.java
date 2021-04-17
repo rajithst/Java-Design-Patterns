@@ -2,11 +2,11 @@ package com.freestylecoding.creational.factory;
 
 public class ServerDemo {
     public static void main(String[] args) {
-        IServer server = ServerFactory.getServer("mail");
+        IServer server = ServerFactory.getServer(ServerTypes.MAIL);
         server.Resolve();
         server.Degugger();
 
-        IServer server1 = ServerFactory.getServer("ftp");
+        IServer server1 = ServerFactory.getServer(ServerTypes.FTP);
         server1.Resolve();
 
     }
