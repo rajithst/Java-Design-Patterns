@@ -1,4 +1,15 @@
 # Java-Design-Patterns
 
 ### Creational
-1.Singleton Pattern
+
+- Singleton Pattern
+- Builder Pattern
+- Factory Pattern
+- Abstract Factory Pattern
+
+### Strutural
+
+
+### Behavioural
+
+
