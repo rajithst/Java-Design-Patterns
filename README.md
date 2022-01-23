@@ -8,8 +8,10 @@
 - Abstract Factory Pattern
 
 ### Strutural
-
+- Adapter
+- Bridge
 
 ### Behavioural
+
 
 
