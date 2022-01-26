@@ -10,6 +10,7 @@
 ### Strutural
 - Adapter
 - Bridge
+- Decorator
 
 ### Behavioural
 
