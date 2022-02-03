@@ -8,11 +8,11 @@
 - Abstract Factory Pattern
 
 ### Strutural
-- Adapter
-- Bridge
-- Decorator
+- Adapter Pattern
+- Bridge Pattern
+- Decorator Patttern
 
-### Behavioural
-
+### Behavioral
+- State Pattern
 
 
