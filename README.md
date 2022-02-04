@@ -10,7 +10,8 @@
 ### Strutural
 - Adapter Pattern
 - Bridge Pattern
-- Decorator Patttern
+- Decorator Pattern
+- Proxy Pattern
 
 ### Behavioral
 - State Pattern
