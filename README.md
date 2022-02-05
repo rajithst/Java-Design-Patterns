@@ -15,5 +15,5 @@
 
 ### Behavioral
 - State Pattern
-
+- Strategy Pattern
 
