@@ -7,11 +7,12 @@
 - Factory Pattern
 - Abstract Factory Pattern
 
-### Strutural
+### Structural
 - Adapter Pattern
 - Bridge Pattern
 - Decorator Pattern
 - Proxy Pattern
+- Facade Pattern
 
 ### Behavioral
 - State Pattern
